@@ -1,7 +1,5 @@
 # LMD-POI
 **LMD-POI: LLM-based Multi-level Denoising Framework for POI Recommendations**
-## Dataset
-The datasets used in this project can be downloaded from the following link:
 ## Code Structure
 * The `pretrain/`folder contains the data preprocessing code.
 * The `data/` folder contains the datasets.
