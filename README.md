@@ -3,8 +3,8 @@
 ## Dataset
 The datasets used in this project can be downloaded from the following link:
 ## Code Structure
-`data/`
-`buildgraph.py`
+* The `pretrain/`folder contains the data preprocessing code.
+* `buildgraph.py`
 ## Requirements
 * Python 3.8+
 * PyTorch 2.4.0
